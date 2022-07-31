@@ -1,6 +1,6 @@
 Hello :wave:
 
-[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauma-izolde-dziluma/)
+[LinkedIn](https://www.linkedin.com/in/lauma-izolde-dziluma/)
 
 I am Lauma and I used to be a biology and science teacher but then I realized that the IT field gives me more opportunities to grow and develop.
 
@@ -9,7 +9,7 @@ I want to constantly learn new things and grow, so I think programming is the pe
 I am interested in Software development. I specialize in PHP and have experience working with Laravel and MySQL. I also have experience working with Angular, HTML & CSS. 
 
 Skills:
-PHP
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 MySQL
 Laravel
 Unit & Integration testing (including TDD methods)
