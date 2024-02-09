@@ -1,6 +1,6 @@
 Hello :wave:
 
-[LinkedIn](https://www.linkedin.com/in/lauma-izolde-dziluma/)
+[LinkedIn](https://www.linkedin.com/in/eli-zobens/)
 
 I am Eli and I used to be a biology and science teacher but then I realized that the IT field gives me more opportunities to grow and develop.
 
